@@ -1,0 +1,6 @@
+{
+    "parent": "item/smaller_food",
+    "textures": {
+        "layer0": "item/baked_potato"
+    }
+}
