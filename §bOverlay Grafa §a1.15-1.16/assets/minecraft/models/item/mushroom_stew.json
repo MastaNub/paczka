@@ -1,6 +1,0 @@
-{
-    "parent": "item/smaller_food",
-    "textures": {
-        "layer0": "item/mushroom_stew"
-    }
-}
