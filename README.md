@@ -49,7 +49,7 @@ https://www.youtube.com/c/GrafMC
 
 
 # Szanse na Cursed Minecraft:
-Krowa:
+<b>Krowa:</b>
 
 •Derp 3%
 
