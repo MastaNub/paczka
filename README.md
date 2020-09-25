@@ -50,8 +50,11 @@ https://www.youtube.com/c/GrafMC
 
 # Szanse na Cursed Minecraft:
 Krowa:
+
 •Derp 3%
+
 •Eyes 3%
+
 •Pig 1%
 
 
