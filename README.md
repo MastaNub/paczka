@@ -71,7 +71,7 @@ https://www.youtube.com/c/GrafMC
 
 •Creeper 1%
 
-<b>Owca:</b
+<b>Owca:</b>
 
 •Derp 3%
 
