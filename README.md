@@ -38,7 +38,14 @@
 
 
 
+# Misc: 
 
+
+<a href="https://github.com/MastaNub/paczka/raw/master/Misc/%C2%A7bLegacy%20Efficiency%20%C2%A7a1.15.zip">Stary wygląd efficiency V</a>
+
+<a href="https://github.com/MastaNub/paczka/raw/master/Misc/%C2%A7eDisco%20Ziemniaki.zip">Disco Ziemniaki</a>
+
+<a href="https://github.com/MastaNub/paczka/raw/master/Misc/%C2%A7eNiska%20Tarcza.zip">Niska Tarcza</a>
 
 
 # Graf
