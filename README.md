@@ -6,15 +6,7 @@
 
 
 
-
 # Ramki do rud:
-<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bRamki%20do%20rud%20%C2%A7a1.8.zip">1.8</a>
-
-<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bRamki%20do%20rud%20%C2%A7a1.12.zip">1.12</a>
-
-<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bRamki%20do%20rud%20%20%C2%A7a1.14.zip">1.14</a>
-
-<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bRamki%20do%20rud%20%C2%A7a1.15.zip">1.15</a>
 
 <a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bRamki%20do%20rud%20%C2%A7a1.16.zip">1.16</a>
 
@@ -42,6 +34,16 @@
 <a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bOverlay%20Grafa%20%C2%A7a1.14%20%C2%A7fSierpie%C5%84%202020.zip">1.14 Sierpień 2020</a>
 
 <a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bOverlay%20Grafa%20%C2%A7a1.15%C2%A7fSierpie%C5%84%202020.zip">1.15 Sierpień 2020</a>
+
+# Stare ramki:
+
+<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bRamki%20do%20rud%20%C2%A7a1.8.zip">1.8</a>
+
+<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bRamki%20do%20rud%20%C2%A7a1.12.zip">1.12</a>
+
+<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bRamki%20do%20rud%20%20%C2%A7a1.14.zip">1.14</a>
+
+<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bRamki%20do%20rud%20%C2%A7a1.15.zip">1.15</a>
 
 
 
