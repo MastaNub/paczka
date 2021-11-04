@@ -2,6 +2,7 @@
 
 <a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bOverlay%20Grafa%20%C2%A7a1.17%20%C2%A7fListopad%202021.zip">1.17 Listopad 2021</a>
 
+<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bRamki%20do%20rud%20%C2%A7a1.17.zip">Ramki 1.17</a>
 
 # Ramki do rud:
 
