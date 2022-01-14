@@ -4,9 +4,9 @@
 
 <a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bRamki%20do%20rud%20%C2%A7a1.17.zip">Ramki 1.17</a>
 
-# Ramki do rud:
+# Lite 2022:
 
-
+<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bOverlay%20Grafa%20%C2%A7a1.17%20%C2%A7fLite%202022.zip">Lite 1.17</a>
 
 
 # Stare wersje:
