@@ -1,13 +1,12 @@
-# Overlay Listopad 2021:
+# Overlay Czerwiec 2022:
 
-<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bOverlay%20Grafa%20%C2%A7a1.17%20%C2%A7fListopad%202021.zip">1.17 Listopad 2021</a>
+<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bOverlay%20Grafa%20%C2%A7a1.19%20%C2%A7fCzerwiec%202022.zip">1.19 Czerwiec 2022</a>
 
-<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bRamki%20do%20rud%20%C2%A7a1.17.zip">Ramki 1.17</a>
+<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bRamki%20do%20rud%20%C2%A7a1.19.zip">Ramki 1.19</a>
 
 # Lite 2022:
 
-<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bOverlay%20Grafa%20%C2%A7a1.17%20%C2%A7fLite%202022.zip">Lite 1.17</a>
-
+<a href="https://github.com/MastaNub/paczka/raw/master/%C2%A7bOverlay%20Grafa%20%C2%A7a1.19%20%C2%A7fLite.zip">Lite 1.19</a>
 
 # Stare wersje:
 
@@ -38,6 +37,10 @@
 <a href="https://github.com/MastaNub/paczka/raw/master/Old/%C2%A7bRamki%20do%20rud%20%C2%A7a1.16.zip">Ramki 1.16</a>
 
 <a href="https://github.com/MastaNub/paczka/raw/master/Old/%C2%A7dR%C3%B3%C5%BCowe%20%C2%A7bRamki%20do%20rud.zip">Różowe ramki 1.16</a>
+
+<a href="https://github.com/MastaNub/paczka/raw/master/Old/%C2%A7bOverlay%20Grafa%20%C2%A7a1.17%20%C2%A7fListopad%202021.zip">1.17 Listopad 2021</a>
+
+<a href="https://github.com/MastaNub/paczka/raw/master/Old/%C2%A7bRamki%20do%20rud%20%C2%A7a1.17.zip">Ramki 1.17</a>
 
 # Stare ramki:
 
